@@ -114,7 +114,7 @@ Return top N weekend getaways
 
 ⚙️ Installation:
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/weekend-getaway-ranker.git
+git clone https://github.com/ANUS-TUP/weekend-getaway-ranker.git
 cd weekend-getaway-ranker
 
 2️⃣ Create Virtual Environment (Optional but Recommended)
